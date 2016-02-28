@@ -23,4 +23,4 @@ app.use('/api/customers', customers);
 app.use('/api/invoices', invoices);
 
 app.listen(3000);
-console.log('Stareted on port 3000');
+console.log('Started on port 3000');
