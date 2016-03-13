@@ -2,3 +2,5 @@
 
 Section 7: MEAN development stack
 MongoDb + Express + Angular
+
+using "bower" to add client JS modules
